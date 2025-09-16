@@ -410,3 +410,6 @@ Thumbs.db
 
 # Project specific
 requirements_working.txt
+
+
+./alembic/__pycache__/
